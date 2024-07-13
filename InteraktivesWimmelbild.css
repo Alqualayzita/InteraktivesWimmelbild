@@ -16,23 +16,28 @@
     background-color: #78b37f;
     padding: 20px;
   }
+
+  .logo{
+    width: 150px;
+    height: 150px;
+  }
+
   h1 {
     text-align: left;
     font-size: 50px;
     color: white;
     text-shadow: 1px 1px 1px white;
     margin-top:-140px;
-    margin-left:170px;
+    margin-left:190px;
   }
   h2 {
     text-align: left;
     font-size: 30px;
     color: white;
-    margin-left: 170px;
+    margin-left: 190px;
     margin-top:-10px;
   }
-
-
+  
   /* Style the navigation menu */
 .topnav {
     width: 100%;
@@ -74,8 +79,7 @@
   }
   div.gallery {  
     float: left;
-    margin: 5px;
-    width: 24%;
+    width: 25%;
     padding-bottom: 20px;
   }
   div.gallery img:hover {
