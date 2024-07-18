@@ -17,11 +17,6 @@
     padding: 20px;
   }
 
-  .logo{
-    width: 150px;
-    height: 150px;
-  }
-
   h1 {
     text-align: left;
     font-size: 50px;
@@ -86,8 +81,8 @@
     transform: scale(2.5);
   }
   div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 300px;
+    height: 169px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   div.desc {
